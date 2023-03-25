@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🤝 I’m looking to contribute on **WordPress Core**
+- 🤝 I’m looking to do **Open-Source Contribution**
 
 - 💬 Ask me about **React and Javascript**
 
