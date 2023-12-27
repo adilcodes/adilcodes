@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Glad to see you on my profile, let me quickly introduce myself. My full name is Adil Sheikh and I'm a self-taught web developer from Pakistan. Javascript is my favorite language that's why I'm keenly in MERN stack development. I'm also a coding content creator and love to teach people how to code. I wrote a book on React Js that has helped hundreds of people.</p>
+<p align="left">Glad to see you on my profile, let me quickly introduce myself. My full name is Adil Sheikh and I'm a self-taught web developer from Pakistan. Javascript is my favorite language that's why I'm keenly interested in MERN stack development. I'm also a coding content creator and love to teach people how to code. I wrote a book on React Js that has helped hundreds of people.</p>
 
 ###
 
