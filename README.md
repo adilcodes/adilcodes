@@ -1,18 +1,26 @@
-<h1 align="left">👋Hey, Adil here</h1>
+<h2 align="left">Hello! I'm Adil Sheikh,</h2>
 
 ###
 
-<p align="left">Glad to see you on my profile, let me quickly introduce myself. My full name is Adil Sheikh and I'm a self-taught web developer from Pakistan. Javascript is my favorite language that's why I'm keenly interested in MERN stack development. I'm also a coding content creator and love to teach people how to code. I wrote a book on React Js that has helped hundreds of people.</p>
+<p align="left">a dedicated Web Developer, Mentor, and Content Creator. I'm obsessed with learning new technologies and building innovative stuff using code. I love to share useful content on Instagram and mentor beginner web developers through my online mentorship program. Additionally, I wrote a book on React Js that has helped hundreds of people.</p>
 
 ###
 
 <div align="left">
-  <img height="250" src="https://public-files.gumroad.com/tskckph153pqxrz5tbuwf4bmwg7a"  />
+  <img height="210" src="https://public-files.gumroad.com/tskckph153pqxrz5tbuwf4bmwg7a"  />
 </div>
 
 ###
 
-<h2 align="left">Skills Toolbox 🔨</h2>
+<h3 align="left">Current Focus 📖</h3>
+
+###
+
+<p align="left">• Learning about Python🐍<br>• Building side projects☕<br>• Looking for remote work👨‍💻</p>
+
+###
+
+<h3 align="left">Skills Toolbox 🔨</h3>
 
 ###
 
@@ -45,35 +53,22 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
 </div>
 
 ###
 
-<h2 align="left">Profile Stats 📈</h2>
+<h3 align="left">Profile Stats 📈</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilcodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilcodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Connect 🔗</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/adil.codes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo"  />
-  </a>
-  <a href="https://linktr.ee/adil.codes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="45" height="33" alt="linktree logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=adilcodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilcodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
