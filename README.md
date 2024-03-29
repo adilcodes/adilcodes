@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Adil Sheikh,</h2>
+<h1 align="left">Hello! I'm Adil Sheikh,</h1>
 
 ###
 
@@ -7,12 +7,12 @@
 ###
 
 <div align="left">
-  <img height="210" src="https://public-files.gumroad.com/tskckph153pqxrz5tbuwf4bmwg7a"  />
+  <img height="230" src="https://public-files.gumroad.com/tskckph153pqxrz5tbuwf4bmwg7a"  />
 </div>
 
 ###
 
-<h3 align="left">Current Focus 📖</h3>
+<h2 align="left">Current Focus 📖</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Skills Toolbox 🔨</h3>
+<h2 align="left">Skills Toolbox 🔨</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">Profile Stats 📈</h3>
+<h2 align="left">Profile Stats 📈</h2>
 
 ###
 
