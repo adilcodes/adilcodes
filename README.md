@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">a dedicated Web Developer, Mentor, and Content Creator. I'm obsessed with learning new technologies and building innovative stuff using code. I love to share useful content on Instagram and mentor beginner web developers through my online mentorship program. Additionally, I wrote a book on React Js that has helped hundreds of people.</p>
+<p align="left">A dedicated Web Developer, Mentor, and Content Creator. I'm obsessed with learning new technologies and building innovative stuff using code. I love to share useful content on Instagram and mentor beginner web developers through my online mentorship program. Additionally, I wrote a book on React Js that has helped hundreds of people.</p>
 
 ###
 
