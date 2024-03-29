@@ -13,7 +13,6 @@
 ###
 
 <h2 align="left">Current Focus 📖</h2>
-
 <p align="left">• Learning about Python🐍<br>• Building side projects☕<br>• Looking for remote work👨‍💻</p>
 
 ###
