@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A dedicated Web Developer, Mentor, and Content Creator. I'm obsessed with learning new technologies and building innovative stuff using code. I love to share useful content on Instagram and mentor beginner web developers through my online mentorship program. Additionally, I wrote a book on React Js that has helped hundreds of people.</p>
+<p align="left">A dedicated Web Developer, Mentor, and Content Creator. I'm passionate about learning new technologies and building innovative stuff using code. I love to share useful coding content on Instagram and mentor beginner web developers through my online mentorship program. Additionally, I wrote a book on React Js that has helped hundreds of people.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">• Learning about Python🐍<br>• Building side projects☕<br>• Looking for remote work👨‍💻</p>
+<p align="left">• Learning about Python🐍<br>• Building side projects☕<br>• Looking for remote job👨‍💻</p>
 
 ###
 
@@ -33,7 +33,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
   <img width="8" />
@@ -47,11 +47,11 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="8" />
